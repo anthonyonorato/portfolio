@@ -1,8 +1,8 @@
-#Portfolio of _tonyono
+# Portfolio of _tonyono
 
 portfolio page 
 
-#Languages
+# Languages
 HTML, CSS, Javascript
 
-Edit for streak
+
